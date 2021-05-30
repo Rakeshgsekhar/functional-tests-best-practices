@@ -22,12 +22,10 @@
         <module>user-details-service-functional-tests</module>
     </modules>
     <properties>
-        <skip.incremental>true</skip.incremental>
-    </properties>
-    <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
+        <skip.incremental>true</skip.incremental>
     </properties>
 
 </project>
